@@ -1,4 +1,4 @@
-# Mission Liberty Website
+# Mission: Liberty Website
 This repository is serving the www.missionliberty.ee website.
 
 The project uses [Jekyll](https://jekyllrb.com/) as CMS system.

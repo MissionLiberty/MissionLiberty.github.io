@@ -5,4 +5,10 @@
 layout: home
 ---
 
-Hello
+# The Home of Liberty!
+
+Mission: Liberty is advancing liberty through targeted initiatives.
+
+Join us Wednesday nights in Tallinn, Estonia for weekly debates.
+
+

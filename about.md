@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+“Mission: Liberty” is a _first-principles-driven organization_ for active people spreading the message of liberty.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The first principles that bind us together are:
 
+* Misesian praxeology,
+* Rothbardian/[Hoppean propertarianism](https://wiki.mises.org/wiki/The_Economics_and_Ethics_of_Private_Property),
+* and Randian Objectivism Ethics.
 
-[jekyll-organization]: https://github.com/jekyll
+The history of the organization dates back to [Mises Estonia](https://mises.ee/), where the Estonian expat [Miao](http://miaozc.me/) continued organizing 
+events for from 2016 through [Meetup](https://www.meetup.com/tallinn-libertarian-meetup/) and Facebook groups. 
+After the pandemic, a few members of the groups decided to continue the activities as the separate initiative and named it “Mission: Liberty.”
+
+The best way to join us is to join the [meetup group](https://www.meetup.com/tallinn-libertarian-meetup/) or send a email to [us](mailto:info@missionliberty.ee).
