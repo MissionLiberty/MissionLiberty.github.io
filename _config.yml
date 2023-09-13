@@ -12,10 +12,11 @@ repository: "MissionLiberty/mssionliberty.github.io"
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "sunrise"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 exclude:
    - README.md
 
