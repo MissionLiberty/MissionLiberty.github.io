@@ -1,16 +1,33 @@
 title: "Mission: Liberty"
+subtitle: "A first-principles-driven organization for active people spreading the message of liberty."
+name: "Mission: Liberty"
 email: info@missionliberty.ee
 description: >- # this means to ignore newlines until "baseurl:"
   Mission: Liberty is advancing liberty through targeted initiatives.
   Join us Wednesday nights in Tallinn, Estonia for weekly debates.
 url: "https://www.missionliberty.ee"
+repository: "MissionLiberty/mssionliberty.github.io"
 #twitter_username: missionliberty.ee
 #github_username:  MissionLiberty
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "sunrise"
 plugins:
   - jekyll-feed
 exclude:
    - README.md
+
+
+#GitHub defaults
+lsi: false
+#safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+

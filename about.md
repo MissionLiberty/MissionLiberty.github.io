@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: single
 title: About
 permalink: /about/
 ---
-
-# About
 
 “Mission: Liberty” is a _first-principles-driven organization_ for active people spreading the message of liberty.
 

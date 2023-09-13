@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: The Home of Liberty!
 ---
-
-# The Home of Liberty!
 
 Mission: Liberty is advancing liberty through targeted initiatives.
 

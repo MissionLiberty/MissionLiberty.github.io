@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: single
 title: Vabaduse Tuba
 permalink: /vabaduse-tuba/
 ---
-
-# Vabaduse Tuba
 
 Vabaduse Tuba (“Freedom Room” in Estonian) is located in the heart of Tallinn, near the Vabaduse Väljak (“Freedom Square” in Estonian), the symbol of freedom and independence from authoritarian regimes.  
 Vabaduse Tube share the same building where [Mises Institute Estonia](https://mises.ee/) is based.
