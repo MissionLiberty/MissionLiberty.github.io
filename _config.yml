@@ -23,7 +23,7 @@ exclude:
 
 #GitHub defaults
 lsi: false
-#safe: true
+safe: true
 incremental: false
 highlighter: rouge
 gist:
