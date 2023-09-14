@@ -22,7 +22,6 @@ include: ["_pages"]
 exclude:
    - README.md
 
-
 #GitHub defaults
 lsi: false
 safe: true
@@ -41,7 +40,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -53,4 +52,4 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
