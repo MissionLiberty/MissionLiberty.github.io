@@ -10,6 +10,7 @@ repository: "MissionLiberty/missionliberty.ee"
 #twitter_username: missionliberty.ee
 github_username:  MissionLiberty
 timezone: Europe/Tallinn
+logo: "/img/ml-lambda.png"
 
 # Build settings
 markdown: kramdown
