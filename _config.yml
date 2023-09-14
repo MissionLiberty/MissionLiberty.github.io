@@ -8,7 +8,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://www.missionliberty.ee"
 repository: "MissionLiberty/mssionliberty.github.io"
 #twitter_username: missionliberty.ee
-#github_username:  MissionLiberty
+github_username:  MissionLiberty
+timezone: Europe/Tallinn
 
 # Build settings
 markdown: kramdown
@@ -17,6 +18,7 @@ minimal_mistakes_skin: "sunrise"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+include: ["_pages"]
 exclude:
    - README.md
 
@@ -32,3 +34,23 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      show_date: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

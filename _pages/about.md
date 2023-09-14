@@ -16,4 +16,4 @@ The history of the organization dates back to [Mises Estonia](https://mises.ee/)
 events for from 2016 through [Meetup](https://www.meetup.com/tallinn-libertarian-meetup/) and Facebook groups. 
 After the pandemic, a few members of the groups decided to continue the activities as the separate initiative and named it “Mission: Liberty.”
 
-The best way to join us is to join the [meetup group](https://www.meetup.com/tallinn-libertarian-meetup/) or send a email to [us](mailto:info@missionliberty.ee).
+The best way to join us is to join the [meetup group](https://www.meetup.com/tallinn-libertarian-meetup/) or send an email to [us](mailto:info@missionliberty.ee).
