@@ -36,7 +36,7 @@ fundamental source of national wealth: the entrepreneur.
 Local accomplished entrepreneur Risto Rossar explaining why Estonia was among the most free country in the world even
 with its soviet-occupation past, and how can we keep that:
 
-![Estonia good!](/img/2023-05-02/risto-rossar.jpg")
+![Estonia good!](/img/2023-05-02/risto-rossar.jpg)
 
 The never-aging and legendary [Ron Manners](https://www.mannwest.com/) passionately describing how it was being an
 entrepreneur like him in a free market:
