@@ -12,8 +12,9 @@ The first principles that bind us together are:
 * Rothbardian/[Hoppean propertarianism](https://wiki.mises.org/wiki/The_Economics_and_Ethics_of_Private_Property),
 * and Randian Objectivism Ethics.
 
-The history of the organization dates back to [Mises Estonia](https://mises.ee/), where the Estonian expat [Miao](http://miaozc.me/) continued organizing 
-events for from 2016 through [Meetup](https://www.meetup.com/tallinn-libertarian-meetup/) and Facebook groups. 
-After the pandemic, a few members of the groups decided to continue the activities as the separate initiative and named it “Mission: Liberty.”
+The history of the organization dates back to [Mises Estonia](https://mises.ee/), with first events happening
+in 2016. In 2021, members of the group decided to continue as "Mission: Liberty," hosting various events, making friends
+around the world and planning activities for the future.
 
-The best way to join us is to join the [meetup group](https://www.meetup.com/tallinn-libertarian-meetup/) or send an email to [us](mailto:info@missionliberty.ee).
+The best way to join us is to join the [meetup group](https://www.meetup.com/tallinn-libertarian-meetup/) or send an
+email to [us](mailto:info@missionliberty.ee).
