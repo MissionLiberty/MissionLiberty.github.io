@@ -5,8 +5,6 @@ date:   2023-05-02 11:42:00 +0300
 #categories: [meetup]
 ---
 
-# Event Description
-
 In cooperation with CFET (Center for Free Economic Thoughts) at Estonian Business School, the Free Market Road Show is
 coming to Tallinn again this year! Please grab your spot asap!
 
