@@ -1,10 +1,10 @@
 ---
 layout: single
 title:  "An Alternative: Preserve Estonian Competitiveness"
-date:   2023-05-02 11:42:00 +0300
+date:   2023-04-21 11:42:00 +0300
 #categories: [declaration]
 ---
-
+5
 This is a joint-petition declaration from the group proposing "An Alternative: Preserve Estonian Competitiveness", both
 in English and Estonian.
 
